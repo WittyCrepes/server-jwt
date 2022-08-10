@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4b244f4-00b9-4fdb-9969-7835c1e9f037" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="D:\Soft\MvnRepo" />
+        <option name="mavenHome" value="E:\tool\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\tool\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2BpkLCz1cOgcG7FNgXj4NSmzq08" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common-persistence/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\data-directory\common-persistence\src\main\resources" />
+      <recent name="F:\project\data-directory\server-jwt\src\main\resources" />
+      <recent name="F:\project\data-directory\server-jwt\src\main\resources\templates" />
+      <recent name="F:\project\data-directory\metadata\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\project\data-directory\server-jwt\src\main\resources\static" />
+      <recent name="F:\project\data-directory\server-jwt\src\main\resources\templates" />
+      <recent name="F:\project\data-directory\server-jwt\src\main\resources\templates\html" />
+      <recent name="F:\project\data-directory\server-jwt\src\main\resources\public" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.platform" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.platform.controller" />
+      <recent name="com.platform.config" />
+      <recent name="com.platform.service.impl" />
+      <recent name="com.platform.utils" />
+      <recent name="com.platform.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServerJwtApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerJwtApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server-jwt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.serverjwt" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.serverjwt.ServerJwtApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerJwtApplicationTests.init" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server-jwt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.serverjwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.serverjwt" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.serverjwt.ServerJwtApplicationTests" />
+      <option name="METHOD_NAME" value="init" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerJwtApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server-jwt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.serverjwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.serverjwt" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.serverjwt.ServerJwtApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetadataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="metadata" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.platform.MetadataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerJwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="server-jwt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.platform.ServerJwtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ServerJwtApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.ServerJwtApplicationTests.test" />
+      <item itemvalue="JUnit.ServerJwtApplicationTests.init" />
+      <item itemvalue="Spring Boot.MetadataApplication" />
+      <item itemvalue="Spring Boot.ServerJwtApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServerJwtApplication" />
+        <item itemvalue="JUnit.ServerJwtApplicationTests.init" />
+        <item itemvalue="JUnit.ServerJwtApplicationTests.test" />
+        <item itemvalue="JUnit.ServerJwtApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4b244f4-00b9-4fdb-9969-7835c1e9f037" name="Default Changelist" comment="" />
+      <created>1657610357239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657610357239</updated>
+      <workItem from="1657610358315" duration="5330000" />
+      <workItem from="1657671156296" duration="5107000" />
+      <workItem from="1657678482434" duration="2305000" />
+      <workItem from="1657757804136" duration="3684000" />
+      <workItem from="1657844007012" duration="11197000" />
+      <workItem from="1658108403253" duration="12132000" />
+      <workItem from="1658134591231" duration="3498000" />
+      <workItem from="1658189665342" duration="19501000" />
+      <workItem from="1658275946567" duration="17560000" />
+      <workItem from="1658362382212" duration="4520000" />
+      <workItem from="1658392439705" duration="4712000" />
+      <workItem from="1658448661921" duration="7918000" />
+      <workItem from="1658707725053" duration="714000" />
+      <workItem from="1658716583091" duration="74000" />
+      <workItem from="1658718557039" duration="9210000" />
+      <workItem from="1658794475870" duration="9881000" />
+      <workItem from="1658804485004" duration="13806000" />
+      <workItem from="1659339802655" duration="5138000" />
+      <workItem from="1659405778234" duration="776000" />
+      <workItem from="1659428866033" duration="2847000" />
+      <workItem from="1659493461330" duration="1495000" />
+      <workItem from="1659515950249" duration="4701000" />
+      <workItem from="1659578859873" duration="9346000" />
+      <workItem from="1659662503713" duration="4664000" />
+      <workItem from="1659776933729" duration="1414000" />
+      <workItem from="1659866470162" duration="10395000" />
+      <workItem from="1659922113387" duration="12643000" />
+      <workItem from="1660008571733" duration="13227000" />
+      <workItem from="1660096708670" duration="5569000" />
+      <workItem from="1660119581875" duration="67000" />
+      <workItem from="1660119702828" duration="301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/Soft/MvnRepo/org/springframework/security/spring-security-crypto/5.6.6/spring-security-crypto-5.6.6.jar!/org/springframework/security/crypto/password/AbstractPasswordEncoder.class</url>
+          <line>25</line>
+          <properties class="org.springframework.security.crypto.password.AbstractPasswordEncoder" method="matches">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/Soft/MvnRepo/org/springframework/security/spring-security-crypto/5.6.6/spring-security-crypto-5.6.6.jar!/org/springframework/security/crypto/argon2/Argon2PasswordEncoder.class</url>
+          <line>53</line>
+          <properties class="org.springframework.security.crypto.argon2.Argon2PasswordEncoder" method="matches">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/Soft/MvnRepo/org/springframework/security/spring-security-crypto/5.6.6/spring-security-crypto-5.6.6.jar!/org/springframework/security/crypto/password/DelegatingPasswordEncoder.class</url>
+          <line>58</line>
+          <properties class="org.springframework.security.crypto.password.DelegatingPasswordEncoder" method="matches">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Soft/MvnRepo/org/springframework/security/spring-security-config/5.6.6/spring-security-config-5.6.6.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class</url>
+          <line>258</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Soft/MvnRepo/org/springframework/security/spring-security-crypto/5.6.6/spring-security-crypto-5.6.6.jar!/org/springframework/security/crypto/password/NoOpPasswordEncoder.class</url>
+          <line>20</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_directory$ServerJwtApplication.ic" NAME="ServerJwtApplication Coverage Results" MODIFIED="1658827287169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.platform.serverjwt.*</FILTER>
+    </SUITE>
+  </component>
+</project>

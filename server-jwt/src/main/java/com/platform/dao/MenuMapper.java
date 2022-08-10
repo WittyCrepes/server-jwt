@@ -1,0 +1,16 @@
+package com.platform.dao;
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.platform.pojo.Menu;
+import org.apache.ibatis.annotations.Mapper;
+import org.apache.ibatis.annotations.Param;
+import org.apache.ibatis.annotations.Select;
+
+import java.util.List;
+
+@Mapper
+public interface MenuMapper extends BaseMapper<Menu> {
+
+    @Select("select id from menu where menu_name = #{menuName}")
+    Long selectIdByMenuName(@Param("menuName") String menuName);
+}

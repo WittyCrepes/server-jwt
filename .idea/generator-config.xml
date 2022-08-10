@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="sys_menu">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SysMenuDao" />
+              <option name="daoPackage" value="com.platform.common.persistence.auto.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SysMenu" />
+              <option name="modelPackage" value="com.platform.common.persistence.auto.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="sys_menu" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="tableName" value="sys_menu" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="com.platform.common.persistence.auto.mapper" />
+              <option name="xmlTargetFolder" value="F:\project\data-directory\common-persistence" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="sys_org">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SysOrgDao" />
+              <option name="daoPackage" value="com.platform.common.persistence.auto.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SysOrg" />
+              <option name="modelPackage" value="com.platform.common.persistence.auto.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="sys_org" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="tableName" value="sys_org" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="com.platform.common.persistence.auto.mapper" />
+              <option name="xmlTargetFolder" value="F:\project\data-directory\common-persistence" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="sys_role">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SysRoleDao" />
+              <option name="daoPackage" value="com.platform.common.persistence.auto.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SysRole" />
+              <option name="modelPackage" value="com.platform.common.persistence.auto.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="sys_role" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="tableName" value="sys_role" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="com.platform.common.persistence.auto.mapper" />
+              <option name="xmlTargetFolder" value="F:\project\data-directory\common-persistence" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="sys_role_menu">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SysRoleMenuDao" />
+              <option name="daoPackage" value="com.platform.common.persistence.auto.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SysRoleMenu" />
+              <option name="modelPackage" value="com.platform.common.persistence.auto.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="sys_role_menu" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="tableName" value="sys_role_menu" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="com.platform.common.persistence.auto.mapper" />
+              <option name="xmlTargetFolder" value="F:\project\data-directory\common-persistence" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="sys_user">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SysUserDao" />
+              <option name="daoPackage" value="com.platform.common.persistence.auto.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SysUser" />
+              <option name="modelPackage" value="com.platform.common.persistence.auto.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="sys_user" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="tableName" value="sys_user" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="com.platform.common.persistence.auto.mapper" />
+              <option name="xmlTargetFolder" value="F:\project\data-directory\common-persistence" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="sys_user_role">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="SysUserRoleDao" />
+              <option name="daoPackage" value="com.platform.common.persistence.auto.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="SysUserRole" />
+              <option name="modelPackage" value="com.platform.common.persistence.auto.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="sys_user_role" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="tableName" value="sys_user_role" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="com.platform.common.persistence.auto.mapper" />
+              <option name="xmlTargetFolder" value="F:\project\data-directory\common-persistence" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="initConfig">
+      <map>
+        <entry key="initConfig">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoPackage" value="com.platform.common.persistence.auto.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="modelPackage" value="com.platform.common.persistence.auto.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="initConfig" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="projectFolder" value="$PROJECT_DIR$/common-persistence" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlPackage" value="com.platform.common.persistence.auto.mapper" />
+              <option name="xmlTargetFolder" value="F:\project\data-directory\common-persistence" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="users">
+      <map>
+        <entry key="jdbc:mysql://localhost:3306/mybatis?serverTimezone=GMT">
+          <value>
+            <User>
+              <option name="username" value="root" />
+            </User>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
